@@ -1,3 +1,29 @@
+# Data and Code for Ni–Mn Alloy Study
+
+**Manuscript No.:** COMMAT-D-26-01026
+**Title:** Processing-dependent structural evolution and glass transition in Ni–Mn alloys
+**Author:** Dung Mai Dung
+
+## Repository structure
+
+* `input/`: LAMMPS input files
+* `dump/`: representative simulation outputs
+* `data/`: processed data used in figures
+
+## How to run
+
+lmp -in input/NiMn_16384.in
+
+## Data description
+
+* CNA_vs_temperature.csv: structure evolution vs temperature
+* RDF, S(q), coordination number: structural characterization
+* Q4, Q6: bond orientational order parameters
+
+## Notes
+
+This repository contains the data and code supporting the submitted manuscript.
+
 # Processing-dependent structural evolution and glass transition in Ni–Mn alloys
 
 This repository contains the input files, selected simulation outputs, and processed data used in the manuscript:

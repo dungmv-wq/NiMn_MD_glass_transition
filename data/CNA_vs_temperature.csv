@@ -1,0 +1,5 @@
+T(K),CommonNeighborAnalysis.counts.BCC,CommonNeighborAnalysis.counts.FCC,CommonNeighborAnalysis.counts.HCP,CommonNeighborAnalysis.counts.ICO,CommonNeighborAnalysis.counts.OTHER,Timestep
+300,1383,2825,2144,4,10028,420000
+500,1271,2732,2018,7,10356,400000
+700,1163,2468,1814,9,10930,380000
+900,989,2101,1546,6,11742,360000

@@ -1,0 +1,5 @@
+Number of atom,CommonNeighborAnalysis.counts.BCC,CommonNeighborAnalysis.counts.FCC,CommonNeighborAnalysis.counts.HCP,CommonNeighborAnalysis.counts.ICO,CommonNeighborAnalysis.counts.OTHER,Timestep
+16384,1383,2825,2144,4,10028,420000
+10976,1141,2378,1839,1,5617,420000
+6912,305,910,675,16,5006,420000
+4000,206,282,314,8,3190,420000

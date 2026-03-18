@@ -1,0 +1,8 @@
+Manuscript No.: COMMAT-D-26-01026
+Title: Processing-dependent structural evolution and glass transition in Ni–Mn alloys: A molecular dynamics study
+Article Type: Full Length Article
+Corresponding Author: Mai Van Dung
+All Authors: Mai Van Dung
+Submit Date: Mar 17, 2026
+
+This repository contains the simulation input files, representative dump files, and processed data used in the manuscript.
